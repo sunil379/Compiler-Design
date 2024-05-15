@@ -13,3 +13,7 @@ Practical No. 6: Design a program for basic calculator using YACC OR BISON.
 Practical No. 7: Design a program to evaluate postfix expressions.
 
 Practical No. 8: Write a c program for a selection sort to generate equivalent 3-address code generated.
+
+Practical No. 9: Write a C program optimized 3 address code generated.
+
+Practical No. 10: Write a C program selection sort and generate an object code for 3 address code.
